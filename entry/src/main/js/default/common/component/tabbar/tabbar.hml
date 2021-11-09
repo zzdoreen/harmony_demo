@@ -1,0 +1,7 @@
+<toolbar style="position : fixed; bottom : 0px;" data='hello'>
+    <toolbar-item icon='{{ image[0] }}' value='首页' data='1' on:click='handleClick'></toolbar-item>
+    <toolbar-item icon='{{ image[1] }}' value='频道' data='2' on:click="handleClick"></toolbar-item>
+    <toolbar-item icon='{{ image[2] }}' value='动态' data='3' on:click="handleClick"></toolbar-item>
+    <toolbar-item icon='{{ image[3] }}' value='我的' data='4' on:click="handleClick"></toolbar-item>
+</toolbar>
+

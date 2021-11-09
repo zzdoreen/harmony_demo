@@ -1,0 +1,5 @@
+<div class="head">
+    <text class="head-title">
+        <span>{{ title }}</span>
+    </text>
+</div>

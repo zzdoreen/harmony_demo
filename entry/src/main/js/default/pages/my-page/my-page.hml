@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="user_head">
+        <div class="avatar">
+            <image on:click="handleLogin" src="common/image/avatar.jpg">
+            </image>
+        </div>
+        <text class="name">
+            <span>name</span>
+        </text>
+    </div>
+    <list scrolleffect='fade' class="user_info">
+        <list-item class="item-css" for="{{ todoList }}">
+            <text>
+                <span>{{ $item.name }} : {{ $item.value }}</span>
+            </text>
+        </list-item>
+    </list>
+</div>

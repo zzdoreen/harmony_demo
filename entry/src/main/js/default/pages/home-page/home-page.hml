@@ -1,0 +1,16 @@
+<div>
+    <list scrolleffect='fade' >
+        <list-item class="item-css" for="{{ todoList }}">
+            <image src="{{ $item.url }}" class="image">
+            </image>
+            <div style="flex-direction: column;">
+                <text class="title">
+                    <span> {{ $item.title }}</span>
+                </text>
+                <text class="title">
+                    <span>作者：{{ $item.name }}</span>
+                </text>
+            </div>
+        </list-item>
+    </list>
+</div>
