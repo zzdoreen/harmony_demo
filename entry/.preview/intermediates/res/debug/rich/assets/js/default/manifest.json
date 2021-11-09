@@ -1,0 +1,18 @@
+{
+    "appID": "com.example.myapplication",
+    "appName": "com.example.myapplication.MainAbility",
+    "versionName": "1.0.0",
+    "versionCode": 1000000,
+    "minPlatformVersion": 5,
+    "pages": [
+        "pages/home/home",
+        "pages/my-page/my-page"
+    ],
+    "deviceType": [
+        "phone"
+    ],
+    "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+    }
+}

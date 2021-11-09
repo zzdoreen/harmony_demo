@@ -1,0 +1,24 @@
+/*.container {*/
+/*    flex-direction: column;*/
+/*    justify-content: flex-start;*/
+/*    align-items: center;*/
+/*}*/
+.container_inner {
+    padding: 0% 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    object-fit:scale-down;
+}
+.button{
+    margin-top: 20px;
+}

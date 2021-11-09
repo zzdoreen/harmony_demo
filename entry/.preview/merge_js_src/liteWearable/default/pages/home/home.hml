@@ -1,0 +1,36 @@
+<element name='tab-bar-com' src='../../common/component/tabbar/tabbar.hml'>
+</element>
+
+<element name='head-com' src='../../common/component/head/head.hml'>
+</element>
+
+<element name='home-page' src='../home-page/home-page.hml'>
+</element>
+
+<element name='my-page' src="../my-page/my-page.hml">
+</element>
+
+<div class="container">
+    <head-com class="app-bar" title="{{ this.compTitle }}"></head-com>
+    <stack>
+        <refresh refreshing="{{ this.refreshFlag }}"
+                 type="pulldown"
+                 lasttime="true"
+                 friction="64"
+                 id="refreshElement"
+                 style="margin-top : 50px;"
+                 on:refresh="handleRefresh"
+                >
+            <div class="container_inner" show="{{ compText === '1' }}">
+                <home-page></home-page>
+            </div>
+            <div class="container_inner" show="{{ compText === '2' }}"></div>
+            <div class="container_inner" show="{{ compText === '3' }}"></div>
+            <div class="container_inner" show="{{ compText === '4' }}">
+                <my-page></my-page>
+            </div>
+        </refresh>
+    </stack>
+    <tab-bar-com @get-item='getTabbarItem'>
+    </tab-bar-com>
+</div>

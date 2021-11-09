@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aff933cb-2fbc-48ad-99f0-60cfe06ffd69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Huawei Lite Wearable Simulator" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="HiLogFilter">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ProjectId" id="1seSCzRSw5h8ZHzTLTGpY3vdPf3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="127.0.0.1:18888" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-19T09:08:16.460687300Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SAVED_PROJECT_CPP_SUPPORT" value="non-cpp" />
+    <property name="last_csr_path" value="E:\harmonyKey\csr.csr" />
+    <property name="last_keystore_path" value="E:\harmonyKey\key.p12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entry/src/main/js/default/common/image" />
+    <property name="project.ide.version" value="2.1.0.303" />
+    <property name="project.structure.select" value="Modules" />
+    <property name="settings.editor.selected.configurable" value="tasks" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ohos.template.packageName">
+      <recent name="com.example.myapplication" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\zz_demos\entry\src\main\js\default\common\image" />
+      <recent name="E:\zz_demos\entry\src\main\resources\base\media" />
+      <recent name="E:\zz_demos\entry\src\main\js\default\common\Icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\zz_demos\entry\src\main\resources\base" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="entry" type="OhosDebugTask" factoryName="HarmonyOS App" activateToolWindowBeforeRun="false">
+      <module name="entry" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto />
+      <Dual />
+      <DualJs />
+      <Java />
+      <Js />
+      <Native />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff933cb-2fbc-48ad-99f0-60cfe06ffd69" name="Default Changelist" comment="" />
+      <created>1621231441190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621231441190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1621308552522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1621308552522" />
+    <state x="963" y="172" key="FileChooserDialogImpl" timestamp="1621244583980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="963" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621244583980" />
+    <state width="935" height="207" key="GridCell.Tab.0.bottom" timestamp="1621478193026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="935" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621478193026" />
+    <state width="935" height="207" key="GridCell.Tab.0.center" timestamp="1621478193026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="935" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621478193026" />
+    <state width="935" height="207" key="GridCell.Tab.0.left" timestamp="1621478193026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="935" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621478193026" />
+    <state width="935" height="207" key="GridCell.Tab.0.right" timestamp="1621478193026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="935" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621478193026" />
+    <state x="310" y="100" width="1200" height="584" key="HVDManager" timestamp="1621478188510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="100" width="1200" height="584" key="HVDManager/0.0.1536.824@0.0.1536.824" timestamp="1621478188510" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1621416963054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1621416963054" />
+    <state x="273" y="117" width="914" height="707" key="SettingsEditor" timestamp="1621394932375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="273" y="117" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621394932375" />
+    <state x="682" y="373" key="run.anything.popup" timestamp="1621235433412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="682" y="373" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1621235433412" />
+  </component>
+</project>

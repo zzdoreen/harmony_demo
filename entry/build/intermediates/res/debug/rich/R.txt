@@ -1,0 +1,3 @@
+media icon 0x1000002
+string zzdoreen 0x1000000
+string zzs 0x1000001

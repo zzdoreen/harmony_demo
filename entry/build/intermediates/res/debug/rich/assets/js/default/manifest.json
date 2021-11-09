@@ -1,0 +1,17 @@
+{
+    "appID": "com.example.myapplication",
+    "appName": "$string:app_name",
+    "versionName": "1.0.0",
+    "versionCode": 1000000,
+    "minPlatformVersion": 5,
+    "pages": [
+        "pages/home/home"
+    ],
+    "deviceType": [
+        "phone"
+    ],
+    "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+    }
+}
